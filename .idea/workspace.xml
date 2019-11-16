@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c915d17-45f6-4116-a9df-bb6c6cf2e3b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/titatnic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/titatnic.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +61,8 @@
       <updated>1573693791747</updated>
       <workItem from="1573693795352" duration="6881000" />
       <workItem from="1573777222746" duration="4919000" />
-      <workItem from="1573782981684" duration="11387000" />
+      <workItem from="1573782981684" duration="11880000" />
+      <workItem from="1573935276983" duration="479000" />
     </task>
     <servers />
   </component>
