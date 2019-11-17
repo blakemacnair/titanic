@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9c915d17-45f6-4116-a9df-bb6c6cf2e3b1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/titanic-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/titanic-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pred.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/pred.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/titanic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/titanic.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,7 +68,7 @@
       <workItem from="1573940809398" duration="4323000" />
       <workItem from="1573945317575" duration="1753000" />
       <workItem from="1573959709721" duration="1668000" />
-      <workItem from="1573961954044" duration="616000" />
+      <workItem from="1573961954044" duration="1878000" />
     </task>
     <servers />
   </component>
