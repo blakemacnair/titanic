@@ -35,7 +35,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,6 +66,7 @@
       <workItem from="1573940809398" duration="4323000" />
       <workItem from="1573945317575" duration="1753000" />
       <workItem from="1573959709721" duration="1668000" />
+      <workItem from="1573961954044" duration="616000" />
     </task>
     <servers />
   </component>
